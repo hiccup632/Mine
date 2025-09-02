@@ -183,9 +183,29 @@ DOMAIN-SUFFIX,filetracker.xyz
 DOMAIN-SUFFIX,altrosky.nl
 DOMAIN-SUFFIX,leech.ie
 
-
-
-
+# 自定义
+DOMAIN-SUFFIX,waves.com
+DOMAIN-SUFFIX,celemony.com
+DOMAIN-KEYWORD,atc.audio
+DOMAIN-KEYWORD,pmc-speakers
+DOMAIN-KEYWORD,audioease
+DOMAIN-KEYWORD,slatedigital
+DOMAIN-KEYWORD,solidstatelogic
+DOMAIN-KEYWORD,uaudio
+DOMAIN-KEYWORD,native-instruments
+DOMAIN-KEYWORD,izotope
+DOMAIN-KEYWORD,avid
+DOMAIN-KEYWORD,plugin-alliance
+DOMAIN-KEYWORD,boomlibrary
+DOMAIN-KEYWORD,audiomatik
+DOMAIN-KEYWORD,stevenslateaudio
+DOMAIN-KEYWORD,ikmultimedia
+DOMAIN-KEYWORD,xlnaudio
+DOMAIN-KEYWORD,cradle.app
+DOMAIN-KEYWORD,sonarworks
+DOMAIN-KEYWORD,audiomovers
+DOMAIN-KEYWORD,krotos
+DOMAIN-KEYWORD,soundly
 
 # 小牛机场
 DOMAIN-SUFFIX,vns735p8.xyz
